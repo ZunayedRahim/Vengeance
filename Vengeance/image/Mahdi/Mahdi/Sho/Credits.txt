@@ -1,0 +1,30 @@
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+*                                                                 *
+* Sprites Ripped by: Skyla Doragono                               *
+* Feel free to use without credit, but do not claim as your own!  *
+*                                                                 *
+* Special Thanks to:                                              *
+* brilliantcataclysmrips @ Tumblr                                 *
+*   For attempting this first.                                    *
+* Ploaj                                                           *
+*   For creating programs to make this process easier.            *
+* Puggsoy, Dazz, and everyone at tSR                              *
+*   For helping me when I was confused and lost.                  *
+*                                                                 *
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+*                                                                 *
+* NOTES                                                           *
+* - "Where is pallet 28?" It was an exact duplicate of 27, so I   *
+*   didn't include it.                                            *
+* - "What's wrong with pallet 26?" I don't know; for some reason  *
+*   it doesn't look complete?  This could be an issue with the    *
+*   360 version; I'll check for certain once I can access the     *
+*   data on the PS3 version.                                      *
+* - "Which ones are for Sho and which ones are for Minazuki?"     *
+*   Sho and Minazuki literally have the exact same data on the    *
+*   disk, with the exception of pallet and scripting data.        *
+* - "What are the files labled "tmp" for?" These are temporary    *
+*   stand-ins used while the game was in development.  Some of    *
+*   Sho's remained in his data.                                   *
+*                                                                 *
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
